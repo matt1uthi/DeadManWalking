@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Oct 21 21:45:28 NZDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-95cc-f181-000006343100 
+on database directory C:\Users\Mxtt Offline\Documents\NetBeansProjects\deadManWalking\DeadmanDB with class loader sun.misc.Launcher$AppClassLoader@29453f44 
+Loaded from file:/C:/Users/Mxtt%20Offline/Documents/db-derby-10.14.2.0-bin/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\Users\Mxtt Offline\Documents\NetBeansProjects\deadManWalking
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
